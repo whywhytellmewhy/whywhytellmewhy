@@ -4,7 +4,7 @@ I am now a new graduate in [College of Semiconductor Research (CoSR)](https://co
 
 💡 I feel interested in circuit design after taking some courses about analog and digital circuit design. I am also curious about other fields like computer science, machine learning, signal processing, etc. Therefore, I have taken some introduction courses about them and hope that I can combine their knowledge with circuit design.
 
-📝 I am working on "SoC Design" course this semester, and 
+📝 I am working on "SoC Design" course this semester, and I will keep writing a study journel throughout this course to record what I learn and achieve. You can click on [this link](https://hackmd.io/@whywhytellmewhy/S1joJxm1p) to see it.
 
 <!--
 **whywhytellmewhy/whywhytellmewhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
